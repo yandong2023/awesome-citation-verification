@@ -1,10 +1,10 @@
 # Awesome Citation Verification
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 A practical guide to checking whether academic references are real, matched to the right paper, and defensible before you cite them.
 
 This repository is for researchers, medical writers, students, reviewers, and editors who need to catch fake citations, hallucinated references, DOI mismatches, and weak source support before submission.
-
-中文读者可以看这篇更完整的说明：[AI 写作时代，为什么一定要做参考文献真实性检查](README.zh-CN.md)。
 
 ## Why this exists
 
