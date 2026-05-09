@@ -4,6 +4,8 @@ A practical guide to checking whether academic references are real, matched to t
 
 This repository is for researchers, medical writers, students, reviewers, and editors who need to catch fake citations, hallucinated references, DOI mismatches, and weak source support before submission.
 
+中文读者可以看这篇更完整的说明：[AI 写作时代，为什么一定要做参考文献真实性检查](README.zh-CN.md)。
+
 ## Why this exists
 
 AI writing tools can produce fluent text with references that look credible but fail basic checks:
@@ -81,4 +83,3 @@ Use simple labels when reviewing a bibliography:
 ## Contributing
 
 Pull requests are welcome for new checklists, examples, templates, and database-specific verification tips. Keep examples educational and avoid naming private individuals.
-
